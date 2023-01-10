@@ -1,0 +1,12 @@
+COMANDOS GIT 
+
+Git Clone;
+Git Init;
+Git Add;
+Git Commit;
+Git Status;
+Git push;
+Git Pull.
+
+
+
